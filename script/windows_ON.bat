@@ -21,7 +21,7 @@ echo.
 pause > nul
 goto menu
 
-REM s?lection de la version de Windows ? activer
+REM sélection de la version de Windows à activer
 :menu
 cls
 echo.
