@@ -1,6 +1,6 @@
 <h1 align="center">
 <br>
-<a href="https://github.com/StarKev"><img src="../Windows ON/sources/activateur.ico"></a>
+<a href="https://github.com/StarKev"><img src="../Windows ON/sources/windows on.png"></a>
 <br>
 Windows ON
 <br>
