@@ -45,7 +45,7 @@ echo x) Sortir
 echo.
 
 set choix=
-set /p choix="Entrez votre choixx: "
+set /p choix="Entrez votre choix: "
 if not '%choix%'=='' set choix=%choix:~0,1%
 if '%choix%'=='1' goto Famille
 if '%choix%'=='2' goto Professionel
