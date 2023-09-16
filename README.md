@@ -30,4 +30,4 @@ Et il faudra juste par la suite appuyer sur oui sur la fenêtre qui demande si o
 
 <img src="sources/execution.png">
 
-À présicer que cette apparaitra chaque fois que vous exécutez cette exécutable lors des prochaine fois.
+À préciser que cette apparaitra chaque fois que vous exécutez cette exécutable lors des prochaine fois.
